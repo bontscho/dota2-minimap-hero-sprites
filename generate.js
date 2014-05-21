@@ -26,12 +26,12 @@ for(key in icons) {
 
     // this considers brewmaster spirits and arcana items
     if(typeof(heroes[hero_name]) == "undefined") {
-        heroes[hero_name] = { id: null, name_full: hero_name, name: hero_name.substring(14) }
+        heroes[hero_name] = { id: null, name: hero_name }
     }
 
     var data = {
         id:         heroes[hero_name]["id"],
-        name:       hero_name,
+        name:       hero_name.substring(14),
         name_full:  heroes[hero_name]["name"],
         width:      icons[key]["width"],
         height:     icons[key]["height"],

@@ -1,16 +1,18 @@
-<link rel="stylesheet"
-      type="text/css"
-      href="https://raw.githubusercontent.com/bontscho/dota2-minimap-hero-sprites/master/assets/stylesheets/dota2minimapheroes.css"
-/>
 # README
 
 This is a CSS spritesheet for Dota 2 Minimap Hero Icons.
 
 ## Demo & Usage
 
+``` html
 <i class="d2mh nyx"></i>
 <i class="d2mh npc_dota_hero_antimage"></i>
 <i class="d2mh hero-5"></i>
+```
+
+Output:
+
+![Output example](example.png)
 
 ## Installation
 
