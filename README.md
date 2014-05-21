@@ -4,11 +4,11 @@ This is a CSS spritesheet for Dota 2 Minimap Hero Icons.
 
 ## Demo & Usage
 
-Add class `d2mh` to `<i>` tag and reference the wanted hero by either `<heroname>`, `npc_dota_<hero_heroname>` or `hero-<hero_id>`:
+Add class `d2mh` to `<i>` tag and reference the wanted hero by adding an additional class in the format of `<heroname>`, `npc_dota_<hero_heroname>` or `hero-<hero_id>`:
 
 ``` html
-<i class="d2mh nyx"></i>
-<i class="d2mh npc_dota_hero_antimage"></i>
+<i class="d2mh axe"></i>
+<i class="d2mh npc_dota_hero_gyrocopter"></i>
 <i class="d2mh hero-5"></i>
 ```
 
