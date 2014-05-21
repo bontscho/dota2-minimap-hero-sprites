@@ -1,6 +1,6 @@
 <link rel="stylesheet"
       type="text/css"
-      href="https://github.com/bontscho/dota2-minimap-hero-sprites/master/assets/stylesheets/dota2minimapheroes.css"
+      href="https://raw.githubusercontent.com/bontscho/dota2-minimap-hero-sprites/master/assets/stylesheets/dota2minimapheroes.css"
 />
 # README
 
