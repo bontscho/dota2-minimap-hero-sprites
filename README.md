@@ -23,6 +23,8 @@ Just copy the assets folder and link to the stylesheet in your HTML.
 1. Update `src/heroes.json` with latest json output from `http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?language=en_us&key=<your steam web api key>`
 2. Extract `materials/vgui/hud/minimap_hero_sheet.vtf` from Dota 2 pak files and export to `assets/images/minimap_hero_sheet.png`
 3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt`
+4. Run `npm install` to get the required packages for the generator script
+5. Run `node generate.js`
 
 ### Tools
 
