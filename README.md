@@ -28,7 +28,7 @@ Just copy the assets folder and link to the stylesheet in your HTML.
 
 Tools I used: [Gibbeds VPK Extractor](https://developer.valvesoftware.com/wiki/Gibbeds_VPK_Extractor), [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
 
-Get WebAPI Key from: http://steamcommunity.com/dev
+Get Steam WebAPI Key from: http://steamcommunity.com/dev
 
 Full List of Third Party Tools: https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools
 
