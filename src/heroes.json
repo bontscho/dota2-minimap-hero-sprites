@@ -537,6 +537,11 @@
                 "localized_name": "Phoenix"
             },
             {
+                "name": "npc_dota_hero_oracle",
+                "id": 111,
+                "localized_name": "Oracle"
+            },
+            {
                 "name": "npc_dota_hero_techies",
                 "id": 105,
                 "localized_name": "Techies"
@@ -544,6 +549,6 @@
         ]
         ,
         "status": 200,
-        "count": 108
+        "count": 109
     }
 }

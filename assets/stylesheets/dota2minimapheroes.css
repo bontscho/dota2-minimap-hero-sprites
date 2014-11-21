@@ -450,6 +450,10 @@
     background-position: -448px -192px;
 }
 
+.d2mh.oracle, .d2mh.npc_dota_hero_oracle, .d2mh.hero-111 { 
+    background-position: -64px -224px;
+}
+
 .d2mh.lina_alt1, .d2mh.npc_dota_hero_lina_alt1 { 
     background-position: -480px -224px;
 }
@@ -464,4 +468,12 @@
 
 .d2mh.techies_alt1, .d2mh.npc_dota_hero_techies_alt1 { 
     background-position: -384px -224px;
+}
+
+.d2mh.nevermore_alt1, .d2mh.npc_dota_hero_nevermore_alt1 { 
+    background-position: -352px -224px;
+}
+
+.d2mh.phantom_assassin_alt1, .d2mh.npc_dota_hero_phantom_assassin_alt1 { 
+    background-position: -320px -224px;
 }

@@ -414,6 +414,22 @@
 				"width"		"32"
 				"height"	"32"
 		}
+		"minimap_rune_bounty"
+		{
+				"file"		"vgui/hud/minimap_sheet"
+				"x"			"480"
+				"y"			"320"
+				"width"		"32"
+				"height"	"32"
+		}		
+		"minimap_treant_ult"
+		{
+				"file"		"vgui/hud/minimap_sheet"
+				"x"			"128"
+				"y"			"256"
+				"width"		"32"
+				"height"	"32"
+		}
 				
 		
 		//----------------------------------------------------------------------------------------------------------------------------------------
@@ -1305,7 +1321,14 @@
 				"width"		"32"
 				"height"	"32"
 		}
-
+		"minimap_heroicon_npc_dota_hero_oracle"
+		{
+				"file"		"vgui/hud/minimap_hero_sheet"
+				"x"			"64"
+				"y"			"224"
+				"width"		"32"
+				"height"	"32"
+		}
 
 
 
@@ -1344,6 +1367,21 @@
 				"width"		"32"
 				"height"	"32"
 		}
-		
+		"minimap_heroicon_npc_dota_hero_nevermore_alt1"
+		{
+				"file"		"vgui/hud/minimap_hero_sheet"
+				"x"			"352"
+				"y"			"224"
+				"width"		"32"
+				"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_phantom_assassin_alt1"
+		{
+				"file"		"vgui/hud/minimap_hero_sheet"
+				"x"			"320"
+				"y"			"224"
+				"width"		"32"
+				"height"	"32"
+		}		
 	}
 }
