@@ -454,6 +454,10 @@
     background-position: -64px -224px;
 }
 
+.d2mh.winter_wyvern, .d2mh.npc_dota_hero_winter_wyvern, .d2mh.hero-112 { 
+    background-position: -480px -192px;
+}
+
 .d2mh.lina_alt1, .d2mh.npc_dota_hero_lina_alt1 { 
     background-position: -480px -224px;
 }
@@ -476,4 +480,8 @@
 
 .d2mh.phantom_assassin_alt1, .d2mh.npc_dota_hero_phantom_assassin_alt1 { 
     background-position: -320px -224px;
+}
+
+.d2mh.crystal_maiden_alt1, .d2mh.npc_dota_hero_crystal_maiden_alt1 { 
+    background-position: -288px -224px;
 }

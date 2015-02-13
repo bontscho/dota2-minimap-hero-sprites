@@ -545,10 +545,15 @@
                 "name": "npc_dota_hero_techies",
                 "id": 105,
                 "localized_name": "Techies"
+            },
+            {
+                "name": "npc_dota_hero_winter_wyvern",
+                "id": 112,
+                "localized_name": "Winter Wyvern"
             }
         ]
         ,
         "status": 200,
-        "count": 109
+        "count": 110
     }
 }

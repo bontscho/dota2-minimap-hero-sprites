@@ -366,6 +366,22 @@
 				"width"		"64"
 				"height"	"64"
 		}
+		"minimap_nian"
+		{
+				"file"		"vgui/hud/minimap_sheet"
+				"x"			"0"
+				"y"			"320"
+				"width"		"64"
+				"height"	"64"
+		}
+		"minimap_nian_dire"
+		{
+				"file"		"vgui/hud/minimap_sheet"
+				"x"			"64"
+				"y"			"320"
+				"width"		"64"
+				"height"	"64"
+		}
 		"minimap_loot_greevil"
 		{
 				"file"		"vgui/hud/minimap_sheet"
@@ -1328,8 +1344,15 @@
 				"y"			"224"
 				"width"		"32"
 				"height"	"32"
-		}
-
+				}
+		"minimap_heroicon_npc_dota_hero_winter_wyvern"
+				{
+						"file"		"vgui/hud/minimap_hero_sheet"
+						"x"			"480"
+						"y"			"192"
+						"width"		"32"
+						"height"	"32"
+				}
 
 
 //  -================= Alternate Hero Icons ==================-
@@ -1382,6 +1405,14 @@
 				"y"			"224"
 				"width"		"32"
 				"height"	"32"
-		}		
+		}	
+		"minimap_heroicon_npc_dota_hero_crystal_maiden_alt1"
+		{
+				"file"		"vgui/hud/minimap_hero_sheet"
+				"x"			"288"
+				"y"			"224"
+				"width"		"32"
+				"height"	"32"
+		}			
 	}
 }
