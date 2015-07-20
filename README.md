@@ -18,9 +18,24 @@ Add class `d2mh` to `<i>` tag and reference the wanted hero by adding an additio
 
 ## Installation
 
-Just copy the assets folder and link to the stylesheet in your HTML.
+### a) npm
 
-## Update Workflow
+Install via npm:
+
+```
+npm install dota2-minimap-hero-sprites
+```
+
+And embed the stylesheet:
+``` html
+<link rel="stylesheet" type="text/css" href="./node_modules/dota2-minimap-hero-icons/assets/stylesheets/dota2minimapheroes.css">
+```
+
+### b) copy files
+
+Just copy the assets folder and link to the stylesheet in your HTML like above.
+
+## For Contributors: Update Workflow
 
 1. Update `src/heroes.json` with latest json output from `http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?language=en_us&key=<your steam web api key>`
 2. Extract `materials/vgui/hud/minimap_hero_sheet.vtf` from Dota 2 pak files and export to `assets/images/minimap_hero_sheet.png`
@@ -35,5 +50,7 @@ Tools I used: [Gibbeds VPK Extractor](https://developer.valvesoftware.com/wiki/G
 Get Steam WebAPI Key from: http://steamcommunity.com/dev
 
 Full List of Third Party Tools: https://developer.valvesoftware.com/wiki/Category:Third_Party_Tools
+
+----------------
 
 All game images and names are property of Valve Corporation.
