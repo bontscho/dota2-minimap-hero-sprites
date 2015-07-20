@@ -1,6 +1,6 @@
 {
   "name": "dota2-minimap-hero-sprites",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS Spritesheet for the Dota 2 minimap hero icons",
   "dependencies": {},
   "devDependencies": {
@@ -25,7 +25,6 @@
     "css"
   ],
   "author": "bontscho",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/bontscho/dota2-minimap-hero-sprites/issues"
   },
