@@ -10,7 +10,7 @@
     background-position: -0px -0px;
 }
 
-.d2mh.antimage, .d2mh.npc_dota_hero_antimage, .d2mh.hero-1 { 
+.d2mh.antimage, .d2mh.npc_dota_hero_antimage, .d2mh.anti_mage, .d2mh.hero-1 { 
     background-position: -32px -0px;
 }
 
@@ -58,7 +58,7 @@
     background-position: -384px -0px;
 }
 
-.d2mh.doom_bringer, .d2mh.npc_dota_hero_doom_bringer, .d2mh.hero-69 { 
+.d2mh.doom_bringer, .d2mh.npc_dota_hero_doom_bringer, .d2mh.doom, .d2mh.hero-69 { 
     background-position: -416px -0px;
 }
 
@@ -90,7 +90,7 @@
     background-position: -128px -32px;
 }
 
-.d2mh.furion, .d2mh.npc_dota_hero_furion, .d2mh.hero-53 { 
+.d2mh.furion, .d2mh.npc_dota_hero_furion, .d2mh.natures_prophet, .d2mh.hero-53 { 
     background-position: -160px -32px;
 }
 
@@ -114,7 +114,7 @@
     background-position: -320px -32px;
 }
 
-.d2mh.life_stealer, .d2mh.npc_dota_hero_life_stealer, .d2mh.hero-54 { 
+.d2mh.life_stealer, .d2mh.npc_dota_hero_life_stealer, .d2mh.lifestealer, .d2mh.hero-54 { 
     background-position: -352px -32px;
 }
 
@@ -134,11 +134,11 @@
     background-position: -480px -32px;
 }
 
-.d2mh.necrolyte, .d2mh.npc_dota_hero_necrolyte, .d2mh.hero-36 { 
+.d2mh.necrolyte, .d2mh.npc_dota_hero_necrolyte, .d2mh.necrophos, .d2mh.hero-36 { 
     background-position: -0px -64px;
 }
 
-.d2mh.nevermore, .d2mh.npc_dota_hero_nevermore, .d2mh.hero-11 { 
+.d2mh.nevermore, .d2mh.npc_dota_hero_nevermore, .d2mh.shadow_fiend, .d2mh.hero-11 { 
     background-position: -32px -64px;
 }
 
@@ -162,11 +162,11 @@
     background-position: -192px -64px;
 }
 
-.d2mh.queenofpain, .d2mh.npc_dota_hero_queenofpain, .d2mh.hero-39 { 
+.d2mh.queenofpain, .d2mh.npc_dota_hero_queenofpain, .d2mh.queen_of_pain, .d2mh.hero-39 { 
     background-position: -224px -64px;
 }
 
-.d2mh.rattletrap, .d2mh.npc_dota_hero_rattletrap, .d2mh.hero-51 { 
+.d2mh.rattletrap, .d2mh.npc_dota_hero_rattletrap, .d2mh.clockwerk, .d2mh.hero-51 { 
     background-position: -256px -64px;
 }
 
@@ -190,7 +190,7 @@
     background-position: -416px -64px;
 }
 
-.d2mh.skeleton_king, .d2mh.npc_dota_hero_skeleton_king, .d2mh.hero-42 { 
+.d2mh.skeleton_king, .d2mh.npc_dota_hero_skeleton_king, .d2mh.wraith_king, .d2mh.hero-42 { 
     background-position: -448px -64px;
 }
 
@@ -238,7 +238,7 @@
     background-position: -288px -96px;
 }
 
-.d2mh.vengefulspirit, .d2mh.npc_dota_hero_vengefulspirit, .d2mh.hero-20 { 
+.d2mh.vengefulspirit, .d2mh.npc_dota_hero_vengefulspirit, .d2mh.vengeful_spirit, .d2mh.hero-20 { 
     background-position: -320px -96px;
 }
 
@@ -258,7 +258,7 @@
     background-position: -448px -96px;
 }
 
-.d2mh.windrunner, .d2mh.npc_dota_hero_windrunner, .d2mh.hero-21 { 
+.d2mh.windrunner, .d2mh.npc_dota_hero_windrunner, .d2mh.windranger, .d2mh.hero-21 { 
     background-position: -480px -96px;
 }
 
@@ -266,7 +266,7 @@
     background-position: -0px -128px;
 }
 
-.d2mh.zuus, .d2mh.npc_dota_hero_zuus, .d2mh.hero-22 { 
+.d2mh.zuus, .d2mh.npc_dota_hero_zuus, .d2mh.zeus, .d2mh.hero-22 { 
     background-position: -32px -128px;
 }
 
@@ -278,7 +278,7 @@
     background-position: -96px -128px;
 }
 
-.d2mh.obsidian_destroyer, .d2mh.npc_dota_hero_obsidian_destroyer, .d2mh.hero-76 { 
+.d2mh.obsidian_destroyer, .d2mh.npc_dota_hero_obsidian_destroyer, .d2mh.outworld_devourer, .d2mh.hero-76 { 
     background-position: -128px -128px;
 }
 
@@ -326,7 +326,7 @@
     background-position: -480px -128px;
 }
 
-.d2mh.treant, .d2mh.npc_dota_hero_treant, .d2mh.hero-83 { 
+.d2mh.treant, .d2mh.npc_dota_hero_treant, .d2mh.treant_protector, .d2mh.hero-83 { 
     background-position: -0px -160px;
 }
 
@@ -346,7 +346,7 @@
     background-position: -128px -160px;
 }
 
-.d2mh.wisp, .d2mh.npc_dota_hero_wisp, .d2mh.hero-91 { 
+.d2mh.wisp, .d2mh.npc_dota_hero_wisp, .d2mh.io, .d2mh.hero-91 { 
     background-position: -160px -160px;
 }
 
@@ -378,7 +378,7 @@
     background-position: -384px -160px;
 }
 
-.d2mh.magnataur, .d2mh.npc_dota_hero_magnataur, .d2mh.hero-97 { 
+.d2mh.magnataur, .d2mh.npc_dota_hero_magnataur, .d2mh.magnus, .d2mh.hero-97 { 
     background-position: -416px -160px;
 }
 
@@ -386,7 +386,7 @@
     background-position: -448px -160px;
 }
 
-.d2mh.centaur, .d2mh.npc_dota_hero_centaur, .d2mh.hero-96 { 
+.d2mh.centaur, .d2mh.npc_dota_hero_centaur, .d2mh.centaur_warrunner, .d2mh.hero-96 { 
     background-position: -480px -160px;
 }
 
@@ -398,7 +398,7 @@
     background-position: -32px -192px;
 }
 
-.d2mh.shredder, .d2mh.npc_dota_hero_shredder, .d2mh.hero-98 { 
+.d2mh.shredder, .d2mh.npc_dota_hero_shredder, .d2mh.timbersaw, .d2mh.hero-98 { 
     background-position: -64px -192px;
 }
 

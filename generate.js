@@ -1,4 +1,5 @@
 var vdf     = require('vdf'),
+    _       = require('lodash'),
     fs      = require('fs'),
     swig    = require('swig');
 
@@ -26,7 +27,9 @@ for(key in icons) {
 
     // this considers brewmaster spirits and arcana items
     if(typeof(heroes[hero_name]) == "undefined") {
-        heroes[hero_name] = { id: null, name: hero_name }
+        heroes[hero_name] = { id: null, name: hero_name, localizedSlug: null }
+    } else {
+        heroes[hero_name].localizedSlug = _.snakeCase(heroes[hero_name]["localized_name"].replace(/'/,"")); // remove ' from Nature's Prophet to avoid nature_s_prophet slug
     }
 
     var data = {
@@ -37,6 +40,10 @@ for(key in icons) {
         height:     icons[key]["height"],
         x:          icons[key]["x"],
         y:          icons[key]["y"]
+    }
+
+    if(heroes[hero_name].localizedSlug != data.name) {
+        data.localizedSlug = heroes[hero_name].localizedSlug;
     }
 
     heroIcons.push(data);
