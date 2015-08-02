@@ -28,7 +28,7 @@ npm install dota2-minimap-hero-sprites
 
 And embed the stylesheet:
 ``` html
-<link rel="stylesheet" type="text/css" href="./node_modules/dota2-minimap-hero-icons/assets/stylesheets/dota2minimapheroes.css">
+<link rel="stylesheet" type="text/css" href="./node_modules/dota2-minimap-hero-sprites/assets/stylesheets/dota2minimapheroes.css">
 ```
 
 ### b) copy files
