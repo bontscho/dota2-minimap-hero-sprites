@@ -20,7 +20,7 @@ var heroIcons = [];
 
 for(key in icons) {
     // pick only icons from hero sheet file, this could be extended in the future
-    if(icons[key]["file"] != "vgui/hud/minimap_hero_sheet")  {
+    if(icons[key]["file"] != "materials/vgui/hud/minimap_hero_sheet.vmat")  {
         continue;
     }
     var hero_name = key.substring(17)
@@ -56,4 +56,11 @@ var output = template({
 
 fs.writeFileSync("assets/stylesheets/dota2minimapheroes.css", output);
 
-console.log("CSS file generated");
+var demoTemplate = swig.compileFile(__dirname + "/src/demo.html.swig");
+var demoOutput = demoTemplate({
+    heroes: heroIcons
+});
+
+fs.writeFileSync("demo.html", demoOutput);
+
+console.log("CSS and Demo files generated");

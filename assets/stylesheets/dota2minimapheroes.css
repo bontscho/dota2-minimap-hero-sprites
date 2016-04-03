@@ -485,3 +485,11 @@
 .d2mh.crystal_maiden_alt1, .d2mh.npc_dota_hero_crystal_maiden_alt1 { 
     background-position: -288px -224px;
 }
+
+.d2mh.zuus_alt1, .d2mh.npc_dota_hero_zuus_alt1 { 
+    background-position: -256px -224px;
+}
+
+.d2mh.arc_warden, .d2mh.npc_dota_hero_arc_warden, .d2mh.hero-113 { 
+    background-position: -96px -224px;
+}

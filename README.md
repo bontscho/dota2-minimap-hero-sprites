@@ -38,14 +38,14 @@ Just copy the assets folder and link to the stylesheet in your HTML like above.
 ## For Contributors: Update Workflow
 
 1. Update `src/heroes.json` with latest json output from `http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?language=en_us&key=<your steam web api key>`
-2. Extract `materials/vgui/hud/minimap_hero_sheet.vtf` from Dota 2 pak files and export to `assets/images/minimap_hero_sheet.png`
-3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt`
+2. Extract `materials/vgui/hud/minimap_hero_sheet[...].vtex_c` from Dota 2 pak files and decompile to `assets/images/minimap_hero_sheet.png` (GCFScape + ValveResourceFormat)
+3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt` (GCFScape)
 4. Run `npm install` to get the required packages for the generator script
 5. Run `node generate.js`
 
 ### Tools
 
-Tools I used: [Gibbeds VPK Extractor](https://developer.valvesoftware.com/wiki/Gibbeds_VPK_Extractor), [VTFEdit](https://developer.valvesoftware.com/wiki/VTFEdit)
+Tools I used: [GCFScape](http://nemesis.thewavelength.net/index.php?p=26), [ValveResourceFormat](https://github.com/SteamDatabase/ValveResourceFormat)
 
 Get Steam WebAPI Key from: http://steamcommunity.com/dev
 
