@@ -493,3 +493,7 @@
 .d2mh.arc_warden, .d2mh.npc_dota_hero_arc_warden, .d2mh.hero-113 { 
     background-position: -96px -224px;
 }
+
+.d2mh.abyssal_underlord, .d2mh.npc_dota_hero_abyssal_underlord, .d2mh.underlord, .d2mh.hero-108 { 
+    background-position: -0px -224px;
+}

@@ -555,10 +555,14 @@
 				"name": "npc_dota_hero_arc_warden",
 				"id": 113,
 				"localized_name": "Arc Warden"
+			},
+			{
+				"name": "npc_dota_hero_abyssal_underlord",
+				"id": 108,
+				"localized_name": "Underlord"
 			}
-		]
-		,
+		],
 		"status": 200,
-		"count": 111
+		"count": 112
 	}
 }
