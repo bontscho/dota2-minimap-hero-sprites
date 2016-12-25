@@ -560,9 +560,14 @@
 				"name": "npc_dota_hero_abyssal_underlord",
 				"id": 108,
 				"localized_name": "Underlord"
+			},
+			{
+				"name": "npc_dota_hero_monkey_king",
+				"id": 114,
+				"localized_name": "Monkey King"
 			}
 		],
 		"status": 200,
-		"count": 112
+		"count": 113
 	}
 }

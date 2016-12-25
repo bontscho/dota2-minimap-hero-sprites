@@ -234,6 +234,22 @@
 			"width"		"64"
 			"height"		"64"
 		}
+		"minimap_secretshop"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"192"
+			"y"		"320"
+			"width"		"64"
+			"height"		"64"
+		}
+		"minimap_sideshop"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"128"
+			"y"		"320"
+			"width"		"64"
+			"height"		"64"
+		}
 		"minimap_ping_baseattacked"
 		{
 			"file"		"materials/vgui/hud/minimap_sheet.vmat"
@@ -401,7 +417,15 @@
 			"y"		"352"
 			"width"		"32"
 			"height"	"32"
-		}		
+		}
+		"minimap_rune_unknown"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"480"
+			"y"		"352"
+			"width"		"32"
+			"height"	"32"
+		}
 		"minimap_treant_ult"
 		{
 			"file"		"materials/vgui/hud/minimap_sheet.vmat"
@@ -1390,6 +1414,22 @@
 		{
 			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
 			"x"		"0"
+			"y"		"224"
+			"width"		"32"
+			"height"		"32"
+		}
+		"minimap_heroicon_npc_dota_hero_monkey_king"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"32"
+			"y"		"224"
+			"width"		"32"
+			"height"		"32"
+		}
+		"minimap_heroicon_npc_dota_hero_monkey_king_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"128"
 			"y"		"224"
 			"width"		"32"
 			"height"		"32"

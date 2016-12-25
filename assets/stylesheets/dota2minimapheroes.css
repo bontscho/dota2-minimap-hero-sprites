@@ -497,3 +497,11 @@
 .d2mh.abyssal_underlord, .d2mh.npc_dota_hero_abyssal_underlord, .d2mh.underlord, .d2mh.hero-108 { 
     background-position: -0px -224px;
 }
+
+.d2mh.monkey_king, .d2mh.npc_dota_hero_monkey_king, .d2mh.hero-114 { 
+    background-position: -32px -224px;
+}
+
+.d2mh.monkey_king_alt1, .d2mh.npc_dota_hero_monkey_king_alt1 { 
+    background-position: -128px -224px;
+}
