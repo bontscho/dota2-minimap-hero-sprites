@@ -18,6 +18,10 @@
     background-position: -64px -0px;
 }
 
+.d2mh.pangolier, .d2mh.npc_dota_hero_pangolier, .d2mh.hero-120 { 
+    background-position: -160px -224px;
+}
+
 .d2mh.ancient_apparition, .d2mh.npc_dota_hero_ancient_apparition, .d2mh.hero-68 { 
     background-position: -96px -0px;
 }
@@ -100,6 +104,10 @@
 
 .d2mh.juggernaut, .d2mh.npc_dota_hero_juggernaut, .d2mh.hero-8 { 
     background-position: -224px -32px;
+}
+
+.d2mh.juggernaut_alt1, .d2mh.npc_dota_hero_juggernaut_alt1 { 
+    background-position: -224px -224px;
 }
 
 .d2mh.kunkka, .d2mh.npc_dota_hero_kunkka, .d2mh.hero-23 { 
@@ -350,6 +358,10 @@
     background-position: -160px -160px;
 }
 
+.d2mh.wisp_alt, .d2mh.npc_dota_hero_wisp_alt { 
+    background-position: -192px -224px;
+}
+
 .d2mh.disruptor, .d2mh.npc_dota_hero_disruptor, .d2mh.hero-87 { 
     background-position: -192px -160px;
 }
@@ -504,4 +516,8 @@
 
 .d2mh.monkey_king_alt1, .d2mh.npc_dota_hero_monkey_king_alt1 { 
     background-position: -128px -224px;
+}
+
+.d2mh.dark_willow, .d2mh.npc_dota_hero_dark_willow, .d2mh.hero-119 { 
+    background-position: -0px -256px;
 }
