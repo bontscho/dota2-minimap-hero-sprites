@@ -575,9 +575,14 @@
 				"name": "npc_dota_hero_dark_willow",
 				"id": 119,
 				"localized_name": "Dark Willow"
+			},
+			{
+				"name": "npc_dota_hero_grimstroke",
+				"id": 121,
+				"localized_name": "Grimstroke"
 			}
 		],
 		"status": 200,
-		"count": 115
+		"count": 116
 	}
 }
