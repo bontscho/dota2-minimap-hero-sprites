@@ -1,7 +1,7 @@
-var vdf     = require('vdf'),
-    _       = require('lodash'),
-    fs      = require('fs'),
-    swig    = require('swig');
+var vdf         = require('vdf'),
+    snakeCase   = require('lodash.snakecase'),
+    fs          = require('fs'),
+    swig        = require('swig');
 
 // read mod textfile
 var mod_textures    = vdf.parse(fs.readFileSync(__dirname + "/src/mod_textures.txt", "utf-8"));
@@ -29,7 +29,7 @@ for(key in icons) {
     if(typeof(heroes[hero_name]) == "undefined") {
         heroes[hero_name] = { id: null, name: hero_name, localizedSlug: null }
     } else {
-        heroes[hero_name].localizedSlug = _.snakeCase(heroes[hero_name]["localized_name"].replace(/'/,"")); // remove ' from Nature's Prophet to avoid nature_s_prophet slug
+        heroes[hero_name].localizedSlug = snakeCase(heroes[hero_name]["localized_name"].replace(/'/,"")); // remove ' from Nature's Prophet to avoid nature_s_prophet slug
     }
 
     var data = {
