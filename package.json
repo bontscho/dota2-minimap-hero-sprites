@@ -1,6 +1,6 @@
 {
   "name": "dota2-minimap-hero-sprites",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "CSS Spritesheet for the Dota 2 minimap hero icons",
   "dependencies": {},
   "devDependencies": {

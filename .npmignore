@@ -1,6 +1,7 @@
 # Ignore all
 *
 
-!assets/*
+!assets/images/minimap_hero_sheet.png
+!assets/stylesheets/dota2minimapheroes.css
 !README.md
 !LICENSE
