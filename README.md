@@ -41,7 +41,7 @@ Just copy the assets folder and link to the stylesheet in your HTML like above.
 2. Extract `materials/vgui/hud/minimap_hero_sheet[...].vtex_c` from Dota 2 pak files and decompile to `assets/images/minimap_hero_sheet.png` (GCFScape + ValveResourceFormat)
 3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt` (GCFScape)
 4. Run `npm install` to get the required packages for the generator script
-5. Run `node generate.js`
+5. Run `npm start`
 
 ### Tools
 
