@@ -9,7 +9,7 @@
     "vdf": "0.0.2"
   },
   "scripts": {
-    "start": "node generate.js"
+    "generate": "node src/generate.js"
   },
   "repository": {
     "type": "git",
