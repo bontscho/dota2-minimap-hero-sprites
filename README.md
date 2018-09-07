@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/dota2-minimap-hero-sprites.svg)](https://badge.fury.io/js/dota2-minimap-hero-sprites)
+[![npm version](https://badge.fury.io/js/dota2-minimap-hero-sprites.svg)](https://badge.fury.io/js/dota2-minimap-hero-sprites) [![dependencies Status](https://david-dm.org/bontscho/dota2-minimap-hero-sprites/status.svg)](https://david-dm.org/bontscho/dota2-minimap-hero-sprites) [![devDependencies Status](https://david-dm.org/bontscho/dota2-minimap-hero-sprites/dev-status.svg)](https://david-dm.org/bontscho/dota2-minimap-hero-sprites?type=dev)
 
 # Dota2 Minimap Hero Sprites
 
