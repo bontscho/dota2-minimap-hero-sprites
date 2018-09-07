@@ -1,0 +1,6 @@
+# Ignore all
+*
+
+!assets/*
+!README.md
+!LICENSE
