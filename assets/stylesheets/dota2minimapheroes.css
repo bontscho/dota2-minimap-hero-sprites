@@ -166,6 +166,10 @@
     background-position: -160px -64px;
 }
 
+.d2mh.pudge_alt1, .d2mh.npc_dota_hero_pudge_alt1 { 
+    background-position: -32px -256px;
+}
+
 .d2mh.pugna, .d2mh.npc_dota_hero_pugna, .d2mh.hero-45 { 
     background-position: -192px -64px;
 }
@@ -506,6 +510,10 @@
     background-position: -96px -224px;
 }
 
+.d2mh.arc_warden_tempest_double, .d2mh.npc_dota_hero_arc_warden_tempest_double { 
+    background-position: -64px -256px;
+}
+
 .d2mh.abyssal_underlord, .d2mh.npc_dota_hero_abyssal_underlord, .d2mh.underlord, .d2mh.hero-108 { 
     background-position: -0px -224px;
 }
@@ -520,4 +528,8 @@
 
 .d2mh.dark_willow, .d2mh.npc_dota_hero_dark_willow, .d2mh.hero-119 { 
     background-position: -0px -256px;
+}
+
+.d2mh.grimstroke, .d2mh.npc_dota_hero_grimstroke, .d2mh.hero-121 { 
+    background-position: -96px -256px;
 }

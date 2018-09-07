@@ -122,6 +122,30 @@
 			"width"		"32"
 			"height"		"32"
 		}
+		"minimap_creepcamp_mid"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"0"
+			"y"		"416"
+			"width"		"32"
+			"height"		"32"
+		}
+		"minimap_creepcamp_big"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"32"
+			"y"		"384"
+			"width"		"32"
+			"height"		"32"
+		}
+		"minimap_creepcamp_ancient"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"0"
+			"y"		"384"
+			"width"		"32"
+			"height"		"32"
+		}
 		"minimap_roshancamp"
 		{
 			"file"		"materials/vgui/hud/minimap_sheet.vmat"
@@ -754,6 +778,14 @@
 			"width"		"32"
 			"height"		"32"
 		}
+		"minimap_heroicon_npc_dota_hero_pudge_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"32"
+			"y"		"256"
+			"width"		"32"
+			"height"		"32"
+		}		
 		"minimap_heroicon_npc_dota_hero_pugna"
 		{
 			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
@@ -1434,6 +1466,14 @@
 			"width"		"32"
 			"height"		"32"
 		}
+		"minimap_heroicon_npc_dota_hero_arc_warden_tempest_double"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"64"
+			"y"		"256"
+			"width"		"32"
+			"height"		"32"
+		}
 		"minimap_heroicon_npc_dota_hero_abyssal_underlord"
 		{
 			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
@@ -1465,6 +1505,14 @@
 			"y"		"256"
 			"width"		"32"
 			"height"		"32"
-		}		
+		}
+		"minimap_heroicon_npc_dota_hero_grimstroke"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"96"
+			"y"		"256"
+			"width"		"32"
+			"height"		"32"
+		}	
 	}
 }
