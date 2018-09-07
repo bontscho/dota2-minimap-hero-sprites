@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/dota2-minimap-hero-sprites.svg)](https://badge.fury.io/js/dota2-minimap-hero-sprites)
+
 # Dota2 Minimap Hero Sprites
 
 This is a CSS spritesheet for Dota 2 Minimap Hero Icons.
@@ -41,7 +43,7 @@ Just copy the assets folder and link to the stylesheet in your HTML like above.
 2. Extract `materials/vgui/hud/minimap_hero_sheet[...].vtex_c` from Dota 2 pak files and decompile to `assets/images/minimap_hero_sheet.png` (GCFScape + ValveResourceFormat)
 3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt` (GCFScape)
 4. Run `npm install` to get the required packages for the generator script
-5. Run `npm start`
+5. Run `npm run generate`
 
 ### Tools
 
