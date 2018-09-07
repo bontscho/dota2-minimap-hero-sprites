@@ -1,0 +1,15 @@
+.d2mh {
+    background-image: url("../images/minimap_hero_sheet.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+{{#each heroes as |hero|}}
+
+.d2mh.{{ hero.name }}, .d2mh.{{ hero.name_full }}{{#if hero.localizedSlug }}, .d2mh.{{ hero.localizedSlug }}{{/if}}{{#if hero.id }}, .d2mh.hero-{{ hero.id }}{{/if}} { {{#if hero.width }}
+    width: {{ hero.width }}px;{{/if}}{{#if hero.height }}
+    height: {{ hero.height }}px;{{/if}}
+    background-position: -{{ hero.x }}px -{{ hero.y }}px;
+}
+{{/each}}

@@ -18,12 +18,12 @@
             <th>Icon</th>
             <th>Aliases</th>
         </tr>
-        {% for hero in heroes %}
+        {{#each heroes as |hero| }}
         <tr>
             <td><i class="d2mh {{ hero.name }}"></i></td>
-            <td>{{ hero.name }}, {{ hero.name_full }}{%if hero.localizedSlug %}, {{ hero.localizedSlug }}{% endif %}{% if hero.id %}, hero-{{ hero.id }}{% endif %}</td>
+            <td>{{ hero.name }}, {{ hero.name_full }}{{#if hero.localizedSlug }}, {{ hero.localizedSlug }}{{/if}}{{#if hero.id }}, hero-{{ hero.id }}{{/if}}</td>
         </tr>
-        {% endfor %}
+        {{/each}}
         </table>
     </body>
 </html>
