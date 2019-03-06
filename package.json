@@ -4,7 +4,7 @@
   "description": "CSS Spritesheet for the Dota 2 minimap hero icons",
   "dependencies": {},
   "devDependencies": {
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.1.0",
     "lodash.snakecase": "^4.1.1",
     "vdf": "0.0.2"
   },
