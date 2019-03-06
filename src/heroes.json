@@ -580,9 +580,14 @@
 				"name": "npc_dota_hero_grimstroke",
 				"id": 121,
 				"localized_name": "Grimstroke"
+			},
+			{
+				"name": "npc_dota_hero_mars",
+				"id": 129,
+				"localized_name": "Mars"
 			}
 		],
 		"status": 200,
-		"count": 116
+		"count": 117
 	}
 }
