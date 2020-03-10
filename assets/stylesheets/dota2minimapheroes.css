@@ -541,3 +541,31 @@
 .d2mh.mars, .d2mh.npc_dota_hero_mars, .d2mh.hero-129 { 
     background-position: -160px -256px;
 }
+
+.d2mh.earthshaker_alt1, .d2mh.npc_dota_hero_earthshaker_alt1 { 
+    background-position: -192px -256px;
+}
+
+.d2mh.earthshaker_alt2, .d2mh.npc_dota_hero_earthshaker_alt2 { 
+    background-position: -224px -256px;
+}
+
+.d2mh.invoker_persona1, .d2mh.npc_dota_hero_invoker_persona1 { 
+    background-position: -256px -256px;
+}
+
+.d2mh.snapfire, .d2mh.npc_dota_hero_snapfire, .d2mh.hero-128 { 
+    background-position: -288px -256px;
+}
+
+.d2mh.void_spirit, .d2mh.npc_dota_hero_void_spirit, .d2mh.hero-126 { 
+    background-position: -320px -256px;
+}
+
+.d2mh.ogre_magi_alt1, .d2mh.npc_dota_hero_ogre_magi_alt1 { 
+    background-position: -352px -256px;
+}
+
+.d2mh.ogre_magi_alt2, .d2mh.npc_dota_hero_ogre_magi_alt2 { 
+    background-position: -384px -256px;
+}
