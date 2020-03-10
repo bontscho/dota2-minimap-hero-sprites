@@ -585,9 +585,19 @@
 				"name": "npc_dota_hero_mars",
 				"id": 129,
 				"localized_name": "Mars"
+			},
+			{
+				"name": "npc_dota_hero_void_spirit",
+				"id": 126,
+				"localized_name": "Void Spirit"
+			},
+			{
+				"name": "npc_dota_hero_snapfire",
+				"id": 128,
+				"localized_name": "Snapfire"
 			}
 		],
 		"status": 200,
-		"count": 117
+		"count": 119
 	}
 }
