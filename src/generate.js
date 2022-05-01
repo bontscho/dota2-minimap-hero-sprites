@@ -35,7 +35,7 @@ for(key in icons) {
 
     const data = {
         id:         heroes[hero_name]["id"],
-        name:       hero_name.substring(14),
+        name:       hero_name.length < 14 ? hero_name : hero_name.substring(14),
         name_full:  heroes[hero_name]["name"],
         width:      icons[key]["width"] !== "32" ? icons[key]["width"] : undefined,
         height:     icons[key]["height"] !== "32" ? icons[key]["height"] : undefined,
