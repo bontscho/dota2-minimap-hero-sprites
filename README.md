@@ -40,10 +40,16 @@ Just copy the assets folder and link to the stylesheet in your HTML like above.
 ## For Contributors: Update Workflow
 
 1. Update `src/heroes.json` with latest json output from `http://api.steampowered.com/IEconDOTA2_570/GetHeroes/v1?language=en_us&key=<your steam web api key>`
-2. Extract `materials/vgui/hud/minimap_hero_sheet[...].vtex_c` from Dota 2 pak files and decompile to `assets/images/minimap_hero_sheet.png` (GCFScape + ValveResourceFormat)
-3. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt` (GCFScape)
-4. Run `npm install` to get the required packages for the generator script
-5. Run `npm run generate`
+2. Extract vpk file from `Steam/steamapps/common/dota 2 beta/game/dota/pak01_dir.vpk`
+3. Extract `materials/vgui/hud/minimap_hero_sheet[...].vtex_c` from Dota 2 pak files and decompile to `assets/images/minimap_hero_sheet.png` (GCFScape + ValveResourceFormat)
+4. Extract `scripts/mod_textures.txt` from Dota 2 pak files to `src/mod_textures.txt` (GCFScape)
+5. Run `npm install` to get the required packages for the generator script
+6. Run `npm run generate`
+
+### Linux
+1. Run `npm install` to get the required packages for the generator script
+2. Run `npm run generate:linux`
+   1. If want to download new heroes files, add steam api key env variable `export STEAM_API_KEY=xxxxxxxx`
 
 ### Tools
 

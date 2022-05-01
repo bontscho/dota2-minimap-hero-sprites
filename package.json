@@ -9,7 +9,8 @@
     "vdf": "0.0.2"
   },
   "scripts": {
-    "generate": "node src/generate.js"
+    "generate": "node src/generate.js",
+    "generate:linux": "./scripts/extract-assets.sh && node src/generate.js"
   },
   "repository": {
     "type": "git",
