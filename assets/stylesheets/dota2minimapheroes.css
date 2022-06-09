@@ -605,3 +605,35 @@
 .d2mh.dawnbreaker, .d2mh.npc_dota_hero_dawnbreaker, .d2mh.hero-135 { 
     background-position: -160px -288px;
 }
+
+.d2mh.spectre_alt1, .d2mh.npc_dota_hero_spectre_alt1 { 
+    background-position: -192px -288px;
+}
+
+.d2mh.spectre_alt2, .d2mh.npc_dota_hero_spectre_alt2 { 
+    background-position: -224px -288px;
+}
+
+.d2mh.dragon_knight_persona1, .d2mh.npc_dota_hero_dragon_knight_persona1 { 
+    background-position: -256px -288px;
+}
+
+.d2mh.drow_ranger_alt1, .d2mh.npc_dota_hero_drow_ranger_alt1 { 
+    background-position: -288px -288px;
+}
+
+.d2mh.drow_ranger_alt2, .d2mh.npc_dota_hero_drow_ranger_alt2 { 
+    background-position: -320px -288px;
+}
+
+.d2mh.mirana_persona1, .d2mh.npc_dota_hero_mirana_persona1 { 
+    background-position: -352px -288px;
+}
+
+.d2mh.marci, .d2mh.npc_dota_hero_marci, .d2mh.hero-136 { 
+    background-position: -384px -288px;
+}
+
+.d2mh.primal_beast, .d2mh.npc_dota_hero_primal_beast, .d2mh.hero-137 { 
+    background-position: -416px -288px;
+}
