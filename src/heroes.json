@@ -604,9 +604,29 @@
 							"name": "npc_dota_hero_dawnbreaker",
 							"id": 135,
 							"localized_name": "Dawnbreaker"
+					},
+					{
+							"name": "npc_dota_hero_marci",
+							"id": 136,
+							"localized_name": "Marci"
+					},
+					{
+							"name": "npc_dota_hero_primal_beast",
+							"id": 137,
+							"localized_name": "Primal Beast"
+					},
+					{
+							"name": "npc_dota_hero_muerta",
+							"id": 138,
+							"localized_name": "Muerta"
+					},
+					{
+							"name": "npc_dota_hero_ringmaster",
+							"id": 131,
+							"localized_name": "Ringmaster"
 					}
 			],
 			"status": 200,
-			"count": 121
+			"count": 125
 	}
 }

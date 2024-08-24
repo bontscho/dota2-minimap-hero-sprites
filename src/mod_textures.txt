@@ -474,6 +474,14 @@
 			"width"		"64"
 			"height"		"64"
 		}
+		"minimap_candle"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"576"
+			"y"		"384"
+			"width"		"64"
+			"height"		"64"
+		}
 		"minimap_greevil"
 		{
 			"file"		"materials/vgui/hud/minimap_sheet.vmat"
@@ -569,7 +577,23 @@
 			"y"		"448"
 			"width"		"32"
 			"height"	"32"
-		}		
+		}
+		"minimap_rune_xp"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"534"
+			"y"		"448"
+			"width"		"32"
+			"height"	"32"
+		}	
+		"minimap_rune_shield"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"502"
+			"y"		"448"
+			"width"		"32"
+			"height"	"32"
+		}	
 		"minimap_rune_unknown"
 		{
 			"file"		"materials/vgui/hud/minimap_sheet.vmat"
@@ -1794,6 +1818,190 @@
 			"width"		"32"
 			"height"	"32"
 		}
+		"minimap_heroicon_npc_dota_hero_spectre_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"192"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_spectre_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"224"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_dragon_knight_persona1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"256"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_drow_ranger_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"288"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_drow_ranger_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"320"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_mirana_persona1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"352"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_marci"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"384"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_primal_beast"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"416"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_brewmaster_void"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"448"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_faceless_void_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"480"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_faceless_void_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"0"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_phantom_assassin_persona1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"32"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_crystal_maiden_persona1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"128"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_razor_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"64"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_razor_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"96"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_muerta"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"160"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_vengefulspirit_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"192"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_vengefulspirit_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"224"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_skywrath_mage_alt1"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"256"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_skywrath_mage_alt2"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"288"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_ringmaster"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"320"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_hero_vengefulspirit_alt3"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"352"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_heroicon_npc_dota_lone_druid_bear"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"		"384"
+			"y"		"320"
+			"width"		"32"
+			"height"	"32"
+		}
 		"minimap_0"
 		{
 			"file" "materials/vgui/hud/minimap_sheet.vmat"
@@ -1873,6 +2081,214 @@
 			"y" "480"
 			"width" "32"
 			"height" "32"
+		}
+		"minimap_ping_clown"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"0"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_axe"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"0"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_farm"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"64"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_fire"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"64"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_heartbreak"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"128"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_heart"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"128"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_skullbones"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"192"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_why"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"192"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_heroicon_unit_no_cc"
+		{
+			"file"		"materials/vgui/hud/minimap_hero_sheet.vmat"
+			"x"			"0"
+			"y"			"480"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_ping_nope"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"256"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_thumbsdown"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"256"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_traffic_go"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"320"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_traffic_stop"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"576"
+			"y"			"320"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_underlord_portal"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"		"160"
+			"y"		"288"
+			"width"		"32"
+			"height"	"32"
+		}
+		"minimap_ping_stack"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"0"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_pull"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"64"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_heal"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"128"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_bomb"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"192"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_invisible"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"256"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_teehee"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"320"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_ping_poop"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"384"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_muerta_target_frame_dire"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"448"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_muerta_target_frame_radiant"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"512"
+			"y"			"512"
+			"width"		"64"
+			"height"	"64"
+		}
+		"minimap_heroicon_arrow"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"0"
+			"y"			"576"
+			"width"		"64"
+			"height"		"64"
+		}
+		"minimap_heroicon_teamcolor"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"64"
+			"y"			"576"
+			"width"		"64"
+			"height"		"64"
+		}
+		"minimap_heroicon_arrow_large"
+		{
+			"file"		"materials/vgui/hud/minimap_sheet.vmat"
+			"x"			"128"
+			"y"			"576"
+			"width"		"128"
+			"height"	"128"
 		}
 	}
 }
